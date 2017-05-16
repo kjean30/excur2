@@ -6,3 +6,12 @@ html {
 bacground-color: black;
 text-align:center;
 }
+a {
+font-size:16px;
+color:aquamarine;
+}
+h3 {
+  font size:42px;
+  font-weight:300;
+  font-family: Verdana;
+}
